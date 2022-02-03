@@ -2,6 +2,8 @@
 
 ## Welcome to MyAPI
 
+This is an update from the github side.
+
 Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
 
 ## Want to jump right in?
